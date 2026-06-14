@@ -2,7 +2,7 @@
 
 This section contains anonymised examples of Power BI dashboards designed for livestock performance monitoring and farm reporting.
 
-## Project Aim
+## Project
 
 The aim of these dashboards is to turn livestock performance data into clear, usable reporting for operational decisions.
 
@@ -21,6 +21,10 @@ This dashboard monitors calf growth and intake patterns across batches, treatmen
 - Average milk consumption by pen location
 - Batch-level weight progression table
 - Intake, week 7 and week 15 weight comparison
+
+## Screenshot
+
+![Calf Weight Progression Dashboard](images/calf-weight-progression-dashboard.png)
 
 ## Tools Used
 
