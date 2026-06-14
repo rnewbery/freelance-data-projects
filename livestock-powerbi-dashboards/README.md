@@ -24,7 +24,7 @@ This dashboard monitors calf growth and intake patterns across batches, treatmen
 
 ## Screenshot
 
-![Calf Weight Progression Dashboard](images/calf-weight-progression-dashboard.png)
+![Calf Weight Progression Dashboard](images/calf-weight-progression-dashboard.png.png)
 
 ## Tools Used
 
