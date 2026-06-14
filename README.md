@@ -36,4 +36,4 @@ View project: `livestock-powerbi-dashboards/`
 All examples are anonymised and use either sample data, recreated data, or screenshots with sensitive details removed. No confidential farm, client, animal, supplier or commercial data is included.
 
 ## Available for Freelance Work
-[**Information available here**](./Freelance Data Analysis.pdf)  
+[**Information available here**](./freelance-data-analysis.pdf)
